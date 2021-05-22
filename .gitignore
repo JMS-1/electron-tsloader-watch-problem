@@ -1,0 +1,5 @@
+/core
+/node_modules
+/yarn.lock
+/dist
+/.vscode/electron
